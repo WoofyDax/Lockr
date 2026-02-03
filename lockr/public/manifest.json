@@ -1,0 +1,18 @@
+{
+  "name": "Lockr - Time Capsule Photos",
+  "short_name": "Lockr",
+  "description": "Share photos with friends, unlock them later",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0a1e",
+  "theme_color": "#8B5CF6",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
